@@ -61,24 +61,8 @@ or
 
     yarn start
 ```
-.. happy Coding..!!
 
 
 
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="https://izemspot.netlify.com" target="_blank">`izemspot.netlify.com`</a>
-- Gmail <a href="mailto:zmr.ilyas@gmail.com" target="_blank">`zmr.ilyas@gmail.com`</a>
 
 
-
-## Final Words
-
-If you like the app, please give it a star. It will mean a lot for me :)
-
-## License
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © <a href="https://izemspot.netlify.com" target="_blank">IZEMSPOT</a>.
